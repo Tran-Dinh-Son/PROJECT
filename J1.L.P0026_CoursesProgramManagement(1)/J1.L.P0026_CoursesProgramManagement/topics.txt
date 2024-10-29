@@ -1,0 +1,9 @@
+SE,ABC,1,XXX,1 month,false
+AI,OOO,1,makma,4 month,false
+MKT,anana,1,amama,2 month,false
+DBI,trigle,1,database,100,true
+CSD,hash,2,tree,200,true
+PRO,java,2,code basic,200,true
+CEA,net,2,netcontructor,200,true
+A004,Cirle,2,sort,300,false
+CSI,Circle,2,software,200,true
